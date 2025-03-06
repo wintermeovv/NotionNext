@@ -60,11 +60,11 @@ const CONFIG = {
   HEO_GROUP_ICONS: [
     {
       title_1: 'AfterEffect',
-      img_1: 'https://raw.githubusercontent.com/wintermeovv/simple/refs/heads/main/1.png',
-      color_1: '#f5d4d7',
+      img_1: '/https://raw.githubusercontent.com/wintermeovv/image/refs/heads/main/1.png',
+      color_1: '#ffffff',
       title_2: 'Sketch',
-      img_2: '/https://raw.githubusercontent.com/wintermeovv/simple/refs/heads/main/1.png',
-      color_2: '#f5d4d7'
+      img_2: '/https://raw.githubusercontent.com/wintermeovv/image/refs/heads/main/2.png',
+      color_2: '#f4e5e8'
     },
     {
       title_1: 'Docker',
