@@ -79,7 +79,7 @@ const CONFIG = {
       img_1: 'https://pic1.imgdb.cn/item/67ca3d44066befcec6df65c6.png',
       color_1: '#ffffff',
       title_2: 'Python',
-      img_2: 'https://pic1.imgdb.cn/item/67ca3dc4066befcec6df65d0.png',
+      img_2: 'https://pic1.imgdb.cn/item/67ca3eea066befcec6df65ec.png',
       color_2: '#fbf9ea'
     },
     {
