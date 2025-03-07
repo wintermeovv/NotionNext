@@ -68,51 +68,51 @@ const CONFIG = {
     },
     {
       title_1: 'Docker',
-      img_1: '/https://raw.githubusercontent.com/wintermeovv/simple/refs/heads/main/1.png',
-      color_1: '#f5d4d7',
+      img_1: '/https://raw.githubusercontent.com/wintermeovv/image/refs/heads/main/3.png',
+      color_1: '#ffffff',
       title_2: 'Photoshop',
-      img_2: '/https://raw.githubusercontent.com/wintermeovv/simple/refs/heads/main/1.png',
-      color_2: 'f5d4d7'
+      img_2: '/https://raw.githubusercontent.com/wintermeovv/image/refs/heads/main/4.png',
+      color_2: 'daf1f9'
     },
     {
       title_1: 'FinalCutPro',
-      img_1: '/https://raw.githubusercontent.com/wintermeovv/simple/refs/heads/main/1.png',
-      color_1: '#f5d4d7',
+      img_1: '/https://raw.githubusercontent.com/wintermeovv/image/refs/heads/main/5.png',
+      color_1: '#ffffff',
       title_2: 'Python',
-      img_2: '/https://raw.githubusercontent.com/wintermeovv/simple/refs/heads/main/1.png',
-      color_2: '#f5d4d7'
+      img_2: '/https://raw.githubusercontent.com/wintermeovv/image/refs/heads/main/6.png',
+      color_2: '#fbf9ea'
     },
     {
       title_1: 'Swift',
-      img_1: 'https://raw.githubusercontent.com/wintermeovv/simple/refs/heads/main/1.png',
-      color_1: '#f5d4d7',
+      img_1: 'https://raw.githubusercontent.com/wintermeovv/image/refs/heads/main/7.png',
+      color_1: '#ffffff',
       title_2: 'Principle',
-      img_2: 'https://raw.githubusercontent.com/wintermeovv/simple/refs/heads/main/1.png',
-      color_2: '#f5d4d7'
+      img_2: 'https://raw.githubusercontent.com/wintermeovv/image/refs/heads/main/8.png',
+      color_2: '#e1f2fa'
     },
     {
       title_1: 'illustrator',
-      img_1: 'https://raw.githubusercontent.com/wintermeovv/simple/refs/heads/main/1.png',
-      color_1: '#f5d4d7',
+      img_1: 'https://raw.githubusercontent.com/wintermeovv/image/refs/heads/main/9.png',
+      color_1: '#fcdee6',
       title_2: 'CSS3',
-      img_2: 'https://raw.githubusercontent.com/wintermeovv/simple/refs/heads/main/1.png',
-      color_2: '#f5d4d7'
+      img_2: 'https://raw.githubusercontent.com/wintermeovv/image/refs/heads/main/10.png',
+      color_2: '#e4f2ff'
     },
     {
       title_1: 'JS',
-      img_1: 'https://raw.githubusercontent.com/wintermeovv/simple/refs/heads/main/1.png',
-      color_1: '#f5d4d7',
+      img_1: 'https://raw.githubusercontent.com/wintermeovv/image/refs/heads/main/11.png',
+      color_1: '#fdf1d7',
       title_2: 'HTML',
-      img_2: 'https://raw.githubusercontent.com/wintermeovv/simple/refs/heads/main/1.png',
-      color_2: '#f5d4d7'
+      img_2: 'https://raw.githubusercontent.com/wintermeovv/image/refs/heads/main/12.png',
+      color_2: '#fddfe7'
     },
     {
       title_1: 'Git',
-      img_1: 'https://raw.githubusercontent.com/wintermeovv/simple/refs/heads/main/1.png',
-      color_1: '#f5d4d7',
+      img_1: 'https://raw.githubusercontent.com/wintermeovv/image/refs/heads/main/13.png',
+      color_1: '#fdfdf5',
       title_2: 'Rhino',
-      img_2: 'https://raw.githubusercontent.com/wintermeovv/simple/refs/heads/main/1.png',
-      color_2: '#f5d4d7'
+      img_2: 'https://raw.githubusercontent.com/wintermeovv/image/refs/heads/main/14.png',
+      color_2: '#fffff7'
     }
   ],
 
