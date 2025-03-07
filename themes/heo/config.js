@@ -60,58 +60,58 @@ const CONFIG = {
   HEO_GROUP_ICONS: [
     {
       title_1: 'AfterEffect',
-      img_1: '/https://raw.githubusercontent.com/wintermeovv/image/refs/heads/main/1.png',
+      img_1: 'https://pic1.imgdb.cn/item/67ca3d43066befcec6df65c2.png',
       color_1: '#ffffff',
       title_2: 'Sketch',
-      img_2: '/https://raw.githubusercontent.com/wintermeovv/image/refs/heads/main/2.png',
+      img_2: 'https://pic1.imgdb.cn/item/67ca3d43066befcec6df65c3.png',
       color_2: '#f4e5e8'
     },
     {
       title_1: 'Docker',
-      img_1: '/https://raw.githubusercontent.com/wintermeovv/image/refs/heads/main/3.png',
+      img_1: 'https://pic1.imgdb.cn/item/67ca3d44066befcec6df65c4.png',
       color_1: '#ffffff',
       title_2: 'Photoshop',
-      img_2: '/https://raw.githubusercontent.com/wintermeovv/image/refs/heads/main/4.png',
+      img_2: 'https://pic1.imgdb.cn/item/67ca3d44066befcec6df65c5.png',
       color_2: 'daf1f9'
     },
     {
       title_1: 'FinalCutPro',
-      img_1: '/https://raw.githubusercontent.com/wintermeovv/image/refs/heads/main/5.png',
+      img_1: 'https://pic1.imgdb.cn/item/67ca3d44066befcec6df65c6.png',
       color_1: '#ffffff',
       title_2: 'Python',
-      img_2: '/https://raw.githubusercontent.com/wintermeovv/image/refs/heads/main/6.png',
+      img_2: 'https://pic1.imgdb.cn/item/67ca3dc4066befcec6df65d0.png',
       color_2: '#fbf9ea'
     },
     {
       title_1: 'Swift',
-      img_1: 'https://raw.githubusercontent.com/wintermeovv/image/refs/heads/main/7.png',
+      img_1: 'https://pic1.imgdb.cn/item/67ca3dc5066befcec6df65d1.png',
       color_1: '#ffffff',
       title_2: 'Principle',
-      img_2: 'https://raw.githubusercontent.com/wintermeovv/image/refs/heads/main/8.png',
+      img_2: 'https://pic1.imgdb.cn/item/67ca3dc5066befcec6df65d2.png',
       color_2: '#e1f2fa'
     },
     {
       title_1: 'illustrator',
-      img_1: 'https://raw.githubusercontent.com/wintermeovv/image/refs/heads/main/9.png',
+      img_1: 'https://pic1.imgdb.cn/item/67ca3dc5066befcec6df65d3.png',
       color_1: '#fcdee6',
       title_2: 'CSS3',
-      img_2: 'https://raw.githubusercontent.com/wintermeovv/image/refs/heads/main/10.png',
+      img_2: 'https://pic1.imgdb.cn/item/67ca3dc6066befcec6df65d4.png',
       color_2: '#e4f2ff'
     },
     {
       title_1: 'JS',
-      img_1: 'https://raw.githubusercontent.com/wintermeovv/image/refs/heads/main/11.png',
+      img_1: 'https://pic1.imgdb.cn/item/67ca3e18066befcec6df65da.png',
       color_1: '#fdf1d7',
       title_2: 'HTML',
-      img_2: 'https://raw.githubusercontent.com/wintermeovv/image/refs/heads/main/12.png',
+      img_2: 'https://pic1.imgdb.cn/item/67ca3e19066befcec6df65db.png',
       color_2: '#fddfe7'
     },
     {
       title_1: 'Git',
-      img_1: 'https://raw.githubusercontent.com/wintermeovv/image/refs/heads/main/13.png',
+      img_1: 'https://pic1.imgdb.cn/item/67ca3e19066befcec6df65dc.png',
       color_1: '#fdfdf5',
       title_2: 'Rhino',
-      img_2: 'https://raw.githubusercontent.com/wintermeovv/image/refs/heads/main/14.png',
+      img_2: 'https://pic1.imgdb.cn/item/67ca3e19066befcec6df65dd.png',
       color_2: '#fffff7'
     }
   ],
