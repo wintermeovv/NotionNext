@@ -23,18 +23,7 @@ module.exports = {
     process.env.NEXT_PUBLIC_WIDGET_PET_SWITCH_THEME || false, // 点击宠物挂件切换博客主题
 
   SPOILER_TEXT_TAG: process.env.NEXT_PUBLIC_SPOILER_TEXT_TAG || '', // Spoiler文本隐藏功能，如Notion中 [sp]希望被spoiler的文字[sp]，填入[sp] 即可
-
-  npm install l2d
-<canvas id="l2d-canvas"></canvas>
-import { init } from 'l2d';
-const l2d = init(document.getElementById('canvas') as HTMLCanvasElement);
-const l2d: L2D = init(l2dCanvas.value! as HTMLCanvasElement);
-l2d.create({
-  path: 'https://raw.githubusercontent.com/wintermeovv/bw/refs/heads/main/%E9%BB%91%E7%99%BD%E7%8C%AB%E7%8C%AB.model3.json',
-  position: [0, 10],
-  scale: 0.1
-});
-
+  
   // 音乐播放插件
   MUSIC_PLAYER: process.env.NEXT_PUBLIC_MUSIC_PLAYER || false, // 是否使用音乐播放插件
   MUSIC_PLAYER_VISIBLE: process.env.NEXT_PUBLIC_MUSIC_PLAYER_VISIBLE || true, // 是否在左下角显示播放和切换，如果使用播放器，打开自动播放再隐藏，就会以类似背景音乐的方式播放，无法取消和暂停
