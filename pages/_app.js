@@ -1,4 +1,3 @@
-import Head from 'next/head';
 // import '@/styles/animate.css' // @see https://animate.style/
 import '@/styles/globals.css'
 import '@/styles/utility-patterns.css'
@@ -64,9 +63,6 @@ const MyApp = ({ Component, pageProps }) => {
   )
   return (
     <>
-      <Head>
-        <link rel="stylesheet" href={process.env.NEXT_PUBLIC_ICONFONT_URL} />
-      </Head>
       {enableClerk ? (
         <ClerkProvider localization={zhCN}>{content}</ClerkProvider>
       ) : (
@@ -77,3 +73,17 @@ const MyApp = ({ Component, pageProps }) => {
 }
 
 export default MyApp
+
+import Head from 'next/head';
+import '@/styles/globals.css'; // 引入全局样式
+
+export default function MyApp({ Component, pageProps }) {
+  return (
+    <>
+      <Head>
+        <link rel="stylesheet" href={process.env.NEXT_PUBLIC_ICONFONT_URL} />
+      </Head>
+      <Component {...pageProps} />
+    </>
+  );
+}
