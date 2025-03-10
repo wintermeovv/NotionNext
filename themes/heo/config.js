@@ -67,7 +67,7 @@ const CONFIG = {
       color_1: '#ffffff',
       title_2: 'Photoshop',
       img_2: 'https://pic1.imgdb.cn/item/67ca3d44066befcec6df65c5.png',
-      color_2: 'daf1f9'
+      color_2: '#daf1f9'
     },
     {
       title_1: 'FinalCutPro',
