@@ -64,6 +64,9 @@ const MyApp = ({ Component, pageProps }) => {
   )
   return (
     <>
+      <Head>
+        <link rel="stylesheet" href={process.env.NEXT_PUBLIC_ICONFONT_URL} />
+      </Head>
       {enableClerk ? (
         <ClerkProvider localization={zhCN}>{content}</ClerkProvider>
       ) : (
