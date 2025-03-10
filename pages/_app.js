@@ -1,4 +1,14 @@
 import Head from 'next/head';
+export default function MyApp({ Component, pageProps }) {
+  return (
+    <>
+      <Head>
+        <link rel="stylesheet" href={process.env.NEXT_PUBLIC_ICONFONT_URL} />
+      </Head>
+      <Component {...pageProps} />
+    </>
+  );
+}
 
 // import '@/styles/animate.css' // @see https://animate.style/
 import '@/styles/globals.css'
