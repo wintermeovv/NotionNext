@@ -1,3 +1,5 @@
+import Head from 'next/head';
+
 // import '@/styles/animate.css' // @see https://animate.style/
 import '@/styles/globals.css'
 import '@/styles/utility-patterns.css'
