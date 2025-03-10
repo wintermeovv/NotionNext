@@ -10,6 +10,8 @@ export default function MyApp({ Component, pageProps }) {
   );
 }
 
+npm run dev
+
 // import '@/styles/animate.css' // @see https://animate.style/
 import '@/styles/globals.css'
 import '@/styles/utility-patterns.css'
