@@ -48,7 +48,9 @@ export default function SideRight(props) {
         <div className='wow fadeInUp'>
           <TouchMeCard />
         </div>
-
+          
+        <Live2D />
+          
         {/* 最新文章列表 */}
         <div
           className={
@@ -59,7 +61,6 @@ export default function SideRight(props) {
 
         {rightAreaSlot}
 
-        <Live2D />
         <FaceBookPage />
 
         {/* 标签和成绩 */}
