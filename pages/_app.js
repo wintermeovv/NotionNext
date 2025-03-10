@@ -73,17 +73,3 @@ const MyApp = ({ Component, pageProps }) => {
 }
 
 export default MyApp
-
-import Head from 'next/head';
-import '@/styles/globals.css'; // 引入全局样式
-
-export default function MyApp({ Component, pageProps }) {
-  return (
-    <>
-      <Head>
-        <link rel="stylesheet" href={process.env.NEXT_PUBLIC_ICONFONT_URL} />
-      </Head>
-      <Component {...pageProps} />
-    </>
-  );
-}
