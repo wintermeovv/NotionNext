@@ -73,3 +73,5 @@ const MyApp = ({ Component, pageProps }) => {
 }
 
 export default MyApp
+
+<script src="./iconfont.js"></script>
