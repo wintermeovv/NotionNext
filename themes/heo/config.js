@@ -8,8 +8,8 @@ const CONFIG = {
 
   // 首页顶部通知条滚动内容，如不需要可以留空 []
   HEO_NOTICE_BAR: [
-    { title: 'no game no life' },
-    { title: 'meow' }
+    { title: 'no game no life', url: 'https://space.bilibili.com/503040864?spm_id_from=333.1007.0.0' },
+    { title: 'meow', url: 'https://space.bilibili.com/503040864?spm_id_from=333.1007.0.0' }
   ],
 
   // 英雄区左右侧组件颠倒位置
