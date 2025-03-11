@@ -24,6 +24,9 @@ const ClerkProvider = dynamic(() =>
   import('@clerk/nextjs').then(m => m.ClerkProvider)
 )
 
+// 引入 Iconfont 的 CSS 文件
+import 'https://at.alicdn.com/t/c/font_4853030_pwqlkpwsxf.css'; // 替换为你的 Iconfont CSS 链接
+
 /**
  * App挂载DOM 入口文件
  * @param {*} param0
@@ -71,8 +74,5 @@ const MyApp = ({ Component, pageProps }) => {
     </>
   )
 }
-
-import '../styles/globals.css'; // 确保引入全局样式
-import 'https://at.alicdn.com/t/font_//at.alicdn.com/t/c/font_4853030_pwqlkpwsxf.css'; // 替换为你的 Iconfont CSS 链接
 
 export default MyApp
