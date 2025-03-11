@@ -28,7 +28,7 @@ const CONFIG = {
   HEO_HERO_COVER_TITLE: '随便逛逛',
 
   // 英雄区显示三个置顶分类
-  HEO_HERO_CATEGORY_1: { title: '地图选择', url: '/tag/地图点位' },
+  HEO_HERO_CATEGORY_1: { title: '地图选择', url: '/category/地图点位' },
   HEO_HERO_CATEGORY_2: { title: '英雄选择', url: '/tag' },
   HEO_HERO_CATEGORY_3: { title: '', url: '' },
 
