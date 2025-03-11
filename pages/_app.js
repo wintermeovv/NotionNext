@@ -72,4 +72,7 @@ const MyApp = ({ Component, pageProps }) => {
   )
 }
 
+import '../styles/globals.css'; // 确保引入全局样式
+import 'https://at.alicdn.com/t/font_//at.alicdn.com/t/c/font_4853030_pwqlkpwsxf.css'; // 替换为你的 Iconfont CSS 链接
+
 export default MyApp
